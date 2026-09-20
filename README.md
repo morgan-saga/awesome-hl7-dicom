@@ -113,11 +113,11 @@ the single most important fact in HL7 tooling right now.
 - [Unofficial OIE Wiki](https://github.com/pacmano1/unofficial-oie-wiki) - Community-maintained user
   manual, filling the gap the official docs haven't yet.
 - [ballista](https://github.com/kayyagari/ballista) - Admin-client launcher for Mirth/OIE/BridgeLink.
+  Solves the Java Web Start pain that everyone hits on day one.
 - [mirthSync](https://saga-it.com/products/mirthsync) - CLI that pulls and pushes channels, code
   templates and configuration between an engine and a Git repo, which is what makes CI/CD on
   Mirth/OIE practical rather than aspirational. EPL-1.0,
   [source](https://github.com/SagaHealthcareIT/mirthsync).
-  Solves the Java Web Start pain that everyone hits on day one.
 - [TLS Manager Plugin](https://github.com/NovaMap-Health/tls-manager-plugin) - Free TLS for HTTP/WS/TCP
   connectors, sponsored by NovaMap + Diridium and donated to OIE. The open replacement for NextGen's
   paid SSL Manager. [Docs](https://www.novamap.health/docs/tls-plugin)
